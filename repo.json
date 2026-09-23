@@ -1,0 +1,8 @@
+{
+  "name": "WioAnime",
+  "description": "CloudStream anime sağlayıcıları",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/plugins.json"
+  ]
+}
