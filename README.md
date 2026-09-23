@@ -8,6 +8,6 @@ CloudStream için anime sağlayıcıları.
 https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/repo.json
 ```
 
-WioAnime toplu sağlayıcısında kullanılacak kaynaklar eklenti ayarlarından seçilebilir. AnimeciX, Anizium, AsyaAnimeleri, Deokwave, TRanimaci ve TurkAnime ayrıca tek tek kurulabilir.
+Toplu WioAnime kataloğu kaldırıldı; başlık eşleşme sorunlarını önlemek için sağlayıcılar ayrı kurulur. AnimeciX, Anizium, AsyaAnimeleri, Deokwave, TRanimaci ve TurkAnime tek tek kurulabilir.
 
 Destek: [Kreosus](https://kreosus.com/wiojelt) · [Telegram](https://t.me/wiolandcs3)
