@@ -136,9 +136,9 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/d5f0857f2d2295cc3126bdb7662765990471a6f5/TurkAnime.cs3",
-    "status": 3,
+    "status": 0,
     "version": 8,
-    "name": "TurkAnime",
+    "name": "TürkAnime (o7)",
     "internalName": "TurkAnime",
     "authors": [
       "Wiojelt"
@@ -156,5 +156,71 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.tv&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-16e5d1b5062bd933f8f765f184f285f661611a62e3c095591ced5de035b2d98c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/AniArsiv.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "AniArşiv",
+    "internalName": "AniArsiv",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "AniArşiv · Güncel ve klasik anime arşivi, Türkçe altyazı",
+    "fileSize": 18514,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://aniarsiv.com/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-61264ace6ef6d1974813edc9fa6411635a1e2a58eede2ec67bdbed86243fcc09"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/TrAnimeIzle.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "TrAnimeİzle",
+    "internalName": "TrAnimeIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
+    "fileSize": 28607,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://www.tranimeizle.live/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-c5fc9835f2638dd72748b68e674f48275988ef143326961900b5e334dc54a159"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/OpenAnime.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "OpenAnime",
+    "internalName": "OpenAnime",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "OpenAnime (openani.me) · Yüksek kaliteli anime arşivi ve Türkçe altyazı",
+    "fileSize": 44349,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://openani.me/favicon512.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-aadca9c73a48bd8020d586daa57d9e3665e0354b6f9af87e70617e1cdf14b4a4"
   }
 ]
