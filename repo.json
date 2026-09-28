@@ -4,6 +4,6 @@
   "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/plugins.json"
+    "https://raw.githubusercontent.com/Wiojelt/WioAnime/18aa865e956ea72e6292b5a22374bee603736ca1/plugins.json"
   ]
 }
