@@ -134,5 +134,22 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.tv&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-16e5d1b5062bd933f8f765f184f285f661611a62e3c095591ced5de035b2d98c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/AnizmProvider.cs3",
+    "status": 1,
+    "version": 20,
+    "name": "Anizm",
+    "internalName": "AnizmProvider",
+    "authors": ["Wiojelt"],
+    "description": "Anizm (anizm.net) · Turkish-subtitled anime provider",
+    "fileSize": 185479,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": ["Anime", "AnimeMovie", "OVA"],
+    "iconUrl": "https://anizm.net/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-69f432043a08e9a41f86a2c086208bff89179634a088e0b5b46d7913f42c16d1",
+    "hash": "69f432043a08e9a41f86a2c086208bff89179634a088e0b5b46d7913f42c16d1"
   }
 ]
