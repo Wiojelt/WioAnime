@@ -1,27 +1,5 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/d5f0857f2d2295cc3126bdb7662765990471a6f5/WioAnime.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "WioAnime",
-    "internalName": "WioAnime",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Anime sağlayıcılarını tek katalogda birleştirir; kaynaklar ayarlardan seçilebilir.",
-    "fileSize": 2035784,
-    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
-    "language": "tr",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/assets/logo.svg",
-    "apiVersion": 1,
-    "fileHash": "sha256-918c4df26f139261c483e9789e50cfb16ba641e04729c2f034e078428ca2c491"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/d5f0857f2d2295cc3126bdb7662765990471a6f5/AnimeciX.cs3",
     "status": 3,
     "version": 7,
@@ -158,7 +136,7 @@
     "fileHash": "sha256-16e5d1b5062bd933f8f765f184f285f661611a62e3c095591ced5de035b2d98c"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/AniArsiv.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/AniArsiv.cs3",
     "status": 1,
     "version": 1,
     "name": "AniArşiv",
@@ -180,7 +158,7 @@
     "fileHash": "sha256-61264ace6ef6d1974813edc9fa6411635a1e2a58eede2ec67bdbed86243fcc09"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/TrAnimeIzle.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/TrAnimeIzle.cs3",
     "status": 1,
     "version": 2,
     "name": "TrAnimeİzle",
@@ -202,7 +180,7 @@
     "fileHash": "sha256-a7ead2850a4e683c9fdd7ad1a5017f46b69de98bc07d843c9a59691628527a1a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/OpenAnime.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/OpenAnime.cs3",
     "status": 1,
     "version": 1,
     "name": "OpenAnime",
@@ -222,5 +200,27 @@
     "iconUrl": "https://openani.me/favicon512.png",
     "apiVersion": 1,
     "fileHash": "sha256-aadca9c73a48bd8020d586daa57d9e3665e0354b6f9af87e70617e1cdf14b4a4"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/AnizmProvider.cs3",
+    "status": 1,
+    "version": 20,
+    "name": "Anizm",
+    "internalName": "AnizmProvider",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Anizm (anizm.net) · Türkçe altyazılı anime sağlayıcısı",
+    "fileSize": 185479,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://anizm.net/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-69f432043a08e9a41f86a2c086208bff89179634a088e0b5b46d7913f42c16d1"
   }
 ]
