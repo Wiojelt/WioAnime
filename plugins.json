@@ -202,7 +202,7 @@
     "fileHash": "sha256-aadca9c73a48bd8020d586daa57d9e3665e0354b6f9af87e70617e1cdf14b4a4"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/18aa865e956ea72e6292b5a22374bee603736ca1/AnizmProvider.cs3",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/AnizmProvider.cs3",
     "status": 1,
     "version": 20,
     "name": "Anizm",
@@ -210,7 +210,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "Anizm (anizm.net) · Turkish-subtitled anime provider",
+    "description": "Anizm (anizm.net) · Türkçe altyazılı anime sağlayıcısı",
     "fileSize": 185479,
     "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
     "language": "tr",
@@ -221,7 +221,6 @@
     ],
     "iconUrl": "https://anizm.net/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-69f432043a08e9a41f86a2c086208bff89179634a088e0b5b46d7913f42c16d1",
-    "hash": "69f432043a08e9a41f86a2c086208bff89179634a088e0b5b46d7913f42c16d1"
+    "fileHash": "sha256-69f432043a08e9a41f86a2c086208bff89179634a088e0b5b46d7913f42c16d1"
   }
 ]
