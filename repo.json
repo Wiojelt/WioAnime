@@ -1,7 +1,7 @@
 {
   "name": "WioAnime",
   "description": "CloudStream anime sağlayıcıları",
-  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/assets/logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/assets/logo-20260929.png",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/Wiojelt/WioAnime/d57850c5ecb89e02fa0c8bd779b3eaea347ca53d/plugins.json"
