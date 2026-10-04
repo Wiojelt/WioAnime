@@ -70,14 +70,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/Deokwave.cs3",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "Deokwave",
     "internalName": "Deokwave",
     "authors": [
       "Wiojelt"
     ],
     "description": "Deokwave · 4K Ultra HD anime sağlayıcısı",
-    "fileSize": 130032,
+    "fileSize": 130836,
     "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
     "language": "tr",
     "tvTypes": [
@@ -87,7 +87,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=deokwave.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-26ab6eb20ea48c917adbbd2fe8602712d6397310ae54a9faa71ecef623107f04"
+    "fileHash": "sha256-78b448c557220694c1f7769b7225b799fc1b686270d228ff437b15478b13452c"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/d5f0857f2d2295cc3126bdb7662765990471a6f5/TRanimaci.cs3",
