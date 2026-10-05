@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/d5f0857f2d2295cc3126bdb7662765990471a6f5/AnimeciX.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AnimeciX.cs3",
     "status": 3,
     "version": 7,
     "name": "AnimeciX",
@@ -23,7 +23,7 @@
     "fileHash": "sha256-84d0efb61865de08737c9e2766e683320b5e48f2d87d3cf3793062e3c71c49d6"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/d5f0857f2d2295cc3126bdb7662765990471a6f5/Anizium.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/Anizium.cs3",
     "status": 3,
     "version": 1,
     "name": "Anizium",
@@ -45,7 +45,7 @@
     "fileHash": "sha256-c46959e6b88dac701150b446d7d7b6551b7a9c5a010000903796dac615a92659"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/d5f0857f2d2295cc3126bdb7662765990471a6f5/AsyaAnimeleri.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AsyaAnimeleri.cs3",
     "status": 3,
     "version": 7,
     "name": "AsyaAnimeleri",
@@ -68,7 +68,7 @@
     "fileHash": "sha256-f7801ed2acab1f00d5ab24d3c9fce24c9246f1e24e440ea7a801841ebb8e7b2f"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/Deokwave.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/Deokwave.cs3",
     "status": 3,
     "version": 11,
     "name": "Deokwave",
@@ -90,7 +90,7 @@
     "fileHash": "sha256-e635c2214c899f9f179a65ece3dde23c8d8e944778d90165b1c4df5bb3ed4f58"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/d5f0857f2d2295cc3126bdb7662765990471a6f5/TRanimaci.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TRanimaci.cs3",
     "status": 3,
     "version": 7,
     "name": "TRanimaci",
@@ -113,7 +113,7 @@
     "fileHash": "sha256-338431ca4028e1acd371d1a22833cafb9c79388632d5869e595eda1797fdf9f0"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/d5f0857f2d2295cc3126bdb7662765990471a6f5/TurkAnime.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TurkAnime.cs3",
     "status": 0,
     "version": 8,
     "name": "TürkAnime (o7)",
@@ -136,7 +136,7 @@
     "fileHash": "sha256-16e5d1b5062bd933f8f765f184f285f661611a62e3c095591ced5de035b2d98c"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/AniArsiv.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AniArsiv.cs3",
     "status": 1,
     "version": 1,
     "name": "AniArşiv",
@@ -158,7 +158,7 @@
     "fileHash": "sha256-61264ace6ef6d1974813edc9fa6411635a1e2a58eede2ec67bdbed86243fcc09"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/TrAnimeIzle.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TrAnimeIzle.cs3",
     "status": 1,
     "version": 2,
     "name": "TrAnimeİzle",
@@ -180,7 +180,7 @@
     "fileHash": "sha256-a7ead2850a4e683c9fdd7ad1a5017f46b69de98bc07d843c9a59691628527a1a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/OpenAnime.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/OpenAnime.cs3",
     "status": 1,
     "version": 1,
     "name": "OpenAnime",
@@ -202,7 +202,7 @@
     "fileHash": "sha256-aadca9c73a48bd8020d586daa57d9e3665e0354b6f9af87e70617e1cdf14b4a4"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioAnime/builds/AnizmProvider.cs3",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AnizmProvider.cs3",
     "status": 1,
     "version": 20,
     "name": "Anizm",
