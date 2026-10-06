@@ -1,15 +1,37 @@
 [
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AnimeciX.cs3?v=84d0efb61865",
+    "name": "0 WioAnime",
+    "internalName": "WioAnime",
+    "version": 2,
+    "description": "WioAnime - Anime sağlayıcılarını tek katalogda birleştirir. Tüm popüler ve yeni bölümler.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/WioAnime.cs3?v=b454d4c6b4e5",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/assets/logo.svg",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "language": "tr",
     "status": 3,
-    "version": 7,
+    "fileSize": 2136064,
+    "fileHash": "sha256-b454d4c6b4e5722d4acaeb2b070ed08948237c76551a0b63e34f341b368eee9d",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AnimeciX.cs3?v=7407f129f50e",
+    "status": 3,
+    "version": 8,
     "name": "AnimeciX",
     "internalName": "AnimeciX",
     "authors": [
       "Wiojelt"
     ],
     "description": "Animeci X · Anime sağlayıcısı",
-    "fileSize": 87839,
+    "fileSize": 117919,
     "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
     "language": "tr",
     "tvTypes": [
@@ -20,7 +42,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.tv&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-84d0efb61865de08737c9e2766e683320b5e48f2d87d3cf3793062e3c71c49d6"
+    "fileHash": "sha256-7407f129f50e7c67a0e8c14a70be1662f45afb9378ed4dd708965cb506660fc4"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/Anizium.cs3?v=c46959e6b88d",
