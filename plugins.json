@@ -2,13 +2,13 @@
   {
     "name": "0 WioAnime",
     "internalName": "WioAnime",
-    "version": 2,
+    "version": 3,
     "description": "WioAnime - Anime sağlayıcılarını tek katalogda birleştirir. Tüm popüler ve yeni bölümler.",
     "authors": [
       "Wiojelt"
     ],
     "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/WioAnime.cs3?v=b454d4c6b4e5",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/WioAnime.cs3?v=6987e6435ed3",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/assets/logo.svg",
     "tvTypes": [
       "Anime",
@@ -17,8 +17,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 2136064,
-    "fileHash": "sha256-b454d4c6b4e5722d4acaeb2b070ed08948237c76551a0b63e34f341b368eee9d",
+    "fileSize": 2146189,
+    "fileHash": "sha256-6987e6435ed3662e4a9800c83806899a966e049f09befab56d6b525470b3b361",
     "apiVersion": 1
   },
   {
