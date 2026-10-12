@@ -1,0 +1,248 @@
+[
+  {
+    "name": "0 WioAnime",
+    "internalName": "WioAnime",
+    "version": 3,
+    "description": "WioAnime - Anime sağlayıcılarını tek katalogda birleştirir. Tüm popüler ve yeni bölümler.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/WioAnime.cs3?v=6987e6435ed3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAnime/main/assets/logo.svg",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 2146189,
+    "fileHash": "sha256-6987e6435ed3662e4a9800c83806899a966e049f09befab56d6b525470b3b361",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AnimeciX.cs3?v=7407f129f50e",
+    "status": 3,
+    "version": 8,
+    "name": "AnimeciX",
+    "internalName": "AnimeciX",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Animeci X · Anime sağlayıcısı",
+    "fileSize": 117919,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.tv&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-7407f129f50e7c67a0e8c14a70be1662f45afb9378ed4dd708965cb506660fc4"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/Anizium.cs3?v=c46959e6b88d",
+    "status": 3,
+    "version": 1,
+    "name": "Anizium",
+    "internalName": "Anizium",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Anizium · 4K ve 2K dublajlı anime sağlayıcısı",
+    "fileSize": 94972,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://x.anizium.co/assets/index/img/embed-logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-c46959e6b88dac701150b446d7d7b6551b7a9c5a010000903796dac615a92659"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AsyaAnimeleri.cs3?v=f7801ed2acab",
+    "status": 3,
+    "version": 7,
+    "name": "AsyaAnimeleri",
+    "internalName": "AsyaAnimeleri",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Asya Animeleri · Anime sağlayıcısı",
+    "fileSize": 79507,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-f7801ed2acab1f00d5ab24d3c9fce24c9246f1e24e440ea7a801841ebb8e7b2f"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/Deokwave.cs3?v=e635c2214c89",
+    "status": 3,
+    "version": 11,
+    "name": "Deokwave",
+    "internalName": "Deokwave",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Deokwave · 4K Ultra HD anime sağlayıcısı",
+    "fileSize": 130245,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=deokwave.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-e635c2214c899f9f179a65ece3dde23c8d8e944778d90165b1c4df5bb3ed4f58"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TRanimaci.cs3?v=338431ca4028",
+    "status": 3,
+    "version": 7,
+    "name": "TRanimaci",
+    "internalName": "TRanimaci",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TRanimaci · Anime sağlayıcısı",
+    "fileSize": 75555,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-338431ca4028e1acd371d1a22833cafb9c79388632d5869e595eda1797fdf9f0"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TurkAnime.cs3?v=16e5d1b5062b",
+    "status": 0,
+    "version": 8,
+    "name": "TürkAnime (o7)",
+    "internalName": "TurkAnime",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TurkAnime · Anime sağlayıcısı",
+    "fileSize": 84423,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.tv&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-16e5d1b5062bd933f8f765f184f285f661611a62e3c095591ced5de035b2d98c"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AniArsiv.cs3?v=a7d810e4251f",
+    "status": 1,
+    "version": 1,
+    "name": "AniArşiv",
+    "internalName": "AniArsiv",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "AniArşiv · Güncel ve klasik anime arşivi, Türkçe altyazı",
+    "fileSize": 110540,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://aniarsiv.com/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-a7d810e4251f671641eb91498e505b8e433b0acbd79e8599e8caaa274541e80e"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TrAnimeIzle.cs3?v=7ebedf14f4c1",
+    "status": 1,
+    "version": 2,
+    "name": "TrAnimeİzle",
+    "internalName": "TrAnimeIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
+    "fileSize": 119345,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://www.tranimeizle.live/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-7ebedf14f4c1d2597294bae91fda50fca64c32b6b0cdee298f2a75221c4b0613"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/OpenAnime.cs3?v=aadca9c73a48",
+    "status": 1,
+    "version": 1,
+    "name": "OpenAnime",
+    "internalName": "OpenAnime",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "OpenAnime (openani.me) · Yüksek kaliteli anime arşivi ve Türkçe altyazı",
+    "fileSize": 44349,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://openani.me/favicon512.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-aadca9c73a48bd8020d586daa57d9e3665e0354b6f9af87e70617e1cdf14b4a4"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AnizmProvider.cs3?v=b7d62ac59f41_1791845921",
+    "status": 3,
+    "version": 24,
+    "name": "Anizm",
+    "internalName": "AnizmProvider",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Anizm (anizm.com.tr) · 30 kategori, son bölümler ve HD oynatıcı",
+    "fileSize": 113819,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://anizm.com.tr/images/logo_128x128.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3"
+  }
+]
