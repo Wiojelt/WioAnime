@@ -224,16 +224,16 @@
     "fileHash": "sha256-aadca9c73a48bd8020d586daa57d9e3665e0354b6f9af87e70617e1cdf14b4a4"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AnizmProvider.cs3?v=5be1a5f04b09",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AnizmProvider.cs3?v=b7d62ac59f41",
     "status": 3,
-    "version": 23,
+    "version": 24,
     "name": "Anizm",
     "internalName": "AnizmProvider",
     "authors": [
       "Wiojelt"
     ],
     "description": "Anizm (anizm.com.tr) · 30 kategori, son bölümler ve HD oynatıcı",
-    "fileSize": 113496,
+    "fileSize": 113819,
     "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
     "language": "tr",
     "tvTypes": [
@@ -243,6 +243,6 @@
     ],
     "iconUrl": "https://anizm.com.tr/images/logo_128x128.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5be1a5f04b093b6f192805355d2705028246b6c4c5ba619c7fad02f7b1566284"
+    "fileHash": "sha256-b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3"
   }
 ]
