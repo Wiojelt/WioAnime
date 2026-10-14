@@ -180,7 +180,7 @@
     "fileHash": "sha256-a7d810e4251f671641eb91498e505b8e433b0acbd79e8599e8caaa274541e80e"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TrAnimeIzle.cs3?v=7ebedf14f4c1",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TrAnimeIzle.cs3?v=eabf9b8bc00c",
     "status": 1,
     "version": 2,
     "name": "TrAnimeİzle",
@@ -189,7 +189,7 @@
       "Wiojelt"
     ],
     "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
-    "fileSize": 119345,
+    "fileSize": 119357,
     "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
     "language": "tr",
     "tvTypes": [
@@ -199,7 +199,7 @@
     ],
     "iconUrl": "https://www.tranimeizle.live/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-7ebedf14f4c1d2597294bae91fda50fca64c32b6b0cdee298f2a75221c4b0613"
+    "fileHash": "sha256-eabf9b8bc00c0a2e834f9ccf3adc89f6a52ff49eb9841b33588bb0527a13d384"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/OpenAnime.cs3?v=aadca9c73a48",
