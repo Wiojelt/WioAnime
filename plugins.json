@@ -158,16 +158,16 @@
     "fileHash": "sha256-a7d810e4251f671641eb91498e505b8e433b0acbd79e8599e8caaa274541e80e"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TrAnimeIzle.cs3?v=eabf9b8bc00c",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TrAnimeIzle.cs3?v=4848d40ee081",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "TrAnimeİzle",
     "internalName": "TrAnimeIzle",
     "authors": [
       "Wiojelt"
     ],
     "description": "TrAnimeİzle · Türkiye'nin en popüler anime izleme platformu",
-    "fileSize": 119357,
+    "fileSize": 119361,
     "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
     "language": "tr",
     "tvTypes": [
@@ -177,7 +177,7 @@
     ],
     "iconUrl": "https://www.tranimeizle.live/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-eabf9b8bc00c0a2e834f9ccf3adc89f6a52ff49eb9841b33588bb0527a13d384"
+    "fileHash": "sha256-4848d40ee081087f28c3f600e01331aa01e058de5de3ed14490e863b695a4c17"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/OpenAnime.cs3?v=aadca9c73a48",
@@ -202,16 +202,16 @@
     "fileHash": "sha256-aadca9c73a48bd8020d586daa57d9e3665e0354b6f9af87e70617e1cdf14b4a4"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AnizmProvider.cs3?v=5be1a5f04b09",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/AnizmProvider.cs3?v=b7d62ac59f41",
     "status": 3,
-    "version": 23,
+    "version": 24,
     "name": "Anizm",
     "internalName": "AnizmProvider",
     "authors": [
       "Wiojelt"
     ],
     "description": "Anizm (anizm.com.tr) · 30 kategori, son bölümler ve HD oynatıcı",
-    "fileSize": 113496,
+    "fileSize": 113819,
     "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
     "language": "tr",
     "tvTypes": [
@@ -221,6 +221,6 @@
     ],
     "iconUrl": "https://anizm.com.tr/images/logo_128x128.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5be1a5f04b093b6f192805355d2705028246b6c4c5ba619c7fad02f7b1566284"
+    "fileHash": "sha256-b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3"
   }
 ]
