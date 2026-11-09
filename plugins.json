@@ -68,9 +68,9 @@
     "fileHash": "sha256-f7801ed2acab1f00d5ab24d3c9fce24c9246f1e24e440ea7a801841ebb8e7b2f"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/Deokwave.cs3?v=7255baaef577",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/Deokwave.cs3?v=6accd7841331",
     "status": 3,
-    "version": 11,
+    "version": 13,
     "name": "Deokwave",
     "internalName": "Deokwave",
     "authors": [
@@ -87,19 +87,19 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=deokwave.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7255baaef5773306d7ae626e795f1fe6d7e134abba829307a870e3e465002062"
+    "fileHash": "sha256-6accd78413312f8fea00180b34296a2ecb0a8072e57ffe351a932cfae09840d6"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TRanimaci.cs3?v=338431ca4028",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TRanimaci.cs3?v=82b396f21442",
     "status": 3,
-    "version": 7,
+    "version": 9,
     "name": "TRanimaci",
     "internalName": "TRanimaci",
     "authors": [
       "Wiojelt"
     ],
     "description": "TRanimaci · Anime sağlayıcısı",
-    "fileSize": 75555,
+    "fileSize": 111650,
     "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
     "language": "tr",
     "tvTypes": [
@@ -110,7 +110,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-338431ca4028e1acd371d1a22833cafb9c79388632d5869e595eda1797fdf9f0"
+    "fileHash": "sha256-82b396f21442bed212ffbb675b714844be2bf14322b3cc2e055918cc532a09f0"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TurkAnime.cs3?v=16e5d1b5062b",
