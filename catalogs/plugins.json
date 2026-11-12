@@ -90,16 +90,16 @@
     "fileHash": "sha256-6accd78413312f8fea00180b34296a2ecb0a8072e57ffe351a932cfae09840d6"
   },
   {
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TRanimaci.cs3?v=82b396f21442",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TRanimaci.cs3?v=985875e131fc",
     "status": 3,
-    "version": 9,
+    "version": 10,
     "name": "TRanimaci",
     "internalName": "TRanimaci",
     "authors": [
       "Wiojelt"
     ],
     "description": "TRanimaci · Anime sağlayıcısı",
-    "fileSize": 111650,
+    "fileSize": 111632,
     "repositoryUrl": "https://github.com/Wiojelt/WioAnime",
     "language": "tr",
     "tvTypes": [
@@ -110,7 +110,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-82b396f21442bed212ffbb675b714844be2bf14322b3cc2e055918cc532a09f0"
+    "fileHash": "sha256-985875e131fce17cfd0ad0904dd1265ba5d4f8cae6b99bba13e480de503c05cf"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TurkAnime.cs3?v=16e5d1b5062b",
