@@ -221,6 +221,8 @@
     ],
     "iconUrl": "https://anizm.com.tr/images/logo_128x128.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3"
+    "fileHash": "sha256-b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3",
+    "filesize": 113819,
+    "hash": "b7d62ac59f41752ca0baa165e1f6b0d83f2880991cd0bc776f88fb3aa3d455f3"
   }
 ]
