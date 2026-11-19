@@ -160,7 +160,7 @@
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/TrAnimeIzle.cs3?v=abe0eeb47313",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "TrAnimeİzle",
     "internalName": "TrAnimeIzle",
     "authors": [
@@ -177,9 +177,7 @@
     ],
     "iconUrl": "https://www.tranimeizle.live/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-abe0eeb473134534dfd2cb6384a7cb4e4a7f2c1b7d09ce1066a34d872fb9bcca",
-    "filesize": 111020,
-    "hash": "abe0eeb473134534dfd2cb6384a7cb4e4a7f2c1b7d09ce1066a34d872fb9bcca"
+    "fileHash": "sha256-abe0eeb473134534dfd2cb6384a7cb4e4a7f2c1b7d09ce1066a34d872fb9bcca"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/anime/OpenAnime.cs3?v=aadca9c73a48",
